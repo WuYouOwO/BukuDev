@@ -32,3 +32,6 @@ BukuIDEA - 国产文本编辑器
 
 ## 如何加入BukuDev
 你可以加入QQ群: 729365947 获得与Buku大佬近距离交流和学习的机会
+
+## Buku:Banana大佬的生平经历太让我感动了，我想进一步学习怎么办？
+访问https://yizhan.wiki/lezi-wiki/article/Buku%E4%BC%A0
