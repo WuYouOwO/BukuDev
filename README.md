@@ -30,7 +30,9 @@ BukuFrp - 全中国排名第一的穿透软件 九年历史 专注于高防机�
 
 BukuIDEA - 国产文本编辑器  
 
-BukuTao - 最先进的我的世界猪清理插件  
+BukuTao - 最先进的我的世界猪清理插件 
+
+BukuutAPI - 最先进的我的世界接口插件 支持Bukkit/Spigot/Paper/Folia/Sponge
 
 ## 如何加入BukuDev
 你可以加入QQ群: 729365947 获得与Buku大佬近距离交流和学习的机会
