@@ -1,3 +1,5 @@
+News:Buku Dev官网已经上线 地址为bukumc.shortlinkse.xyz
+---
 # What is BukuDev?
 BukuDev是由Buku:Banana创造的开发团队
 目标是在生产并创作高性能的先进动态可持续性云原生开源高性能我的世界开发者工具  
